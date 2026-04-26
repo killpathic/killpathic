@@ -105,3 +105,5 @@ Real-time EMG acquisition and WiFi HTTP streaming firmware for the ESP32-WROOM-3
   <img src="https://raw.githubusercontent.com/killpathic/killpathic/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
 -->
+
+<!-- profile -->
