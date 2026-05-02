@@ -1,109 +1,78 @@
-<h1 align="center">
-  <a href="https://github.com/killpathic">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=900&color=1D9E75&center=true&vCenter=true&width=600&lines=Walid+G+%E2%80%94+Embedded+AI+%26+Biomedical+Systems;Hardware+%C2%B7+Machine+Learning+%C2%B7+Clinical+Applications;ESP32+%E2%86%92+FastAPI+%E2%86%92+Unity+%E2%86%92+the+patient" alt="typing" />
-  </a>
-</h1>
+# Hi, I'm Walid 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=killpathic&label=Profile%20views&color=1D9E75&style=flat" alt="profile views" />
-  <a href="https://github.com/killpathic?tab=followers"><img src="https://img.shields.io/github/followers/killpathic?label=Followers&style=flat&color=1D9E75" alt="followers" /></a>
-  <a href="https://github.com/killpathic"><img src="https://img.shields.io/github/stars/killpathic?label=Stars&style=flat&color=1D9E75" alt="stars" /></a>
+Engineer based in **Morocco**. I build things end-to-end — from low-level firmware on microcontrollers, through ML pipelines and APIs, all the way to the UI a user touches.
+
+Comfortable hopping between solder joints, training scripts, and React components.
+
+---
+
+## Tech I work with 🛠️
+
+### Languages
+<p align="left">
+<img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-<p align="center">
-  <img alt="C++"      src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-  <img alt="C#"       src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
-  <img alt="Python"   src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img alt="ESP32"    src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
-  <img alt="Unity"    src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
-  <img alt="FastAPI"  src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img alt="Docker"   src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img alt="sklearn"  src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-  <img alt="Keras"    src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
+### Embedded & Hardware
+<p align="left">
+<img alt="ESP32" src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+<img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+</p>
+
+### Frontend & Game
+<p align="left">
+<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img alt="Unity" src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+</p>
+
+### Backend
+<p align="left">
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+</p>
+
+### Databases
+<p align="left">
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
+### Machine Learning
+<p align="left">
+<img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+</p>
+
+### DevOps & Tools
+<p align="left">
+<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ---
 
-### About
+## Stats 📊
 
-- Engineer based in **Rabat, Morocco**, working at the seam of embedded firmware, machine learning, and clinical use cases.
-- Currently building **holdit-game4health** — an EMG-driven Unity rehab game with an ESP32 + FastAPI + PostgreSQL stack.
-- Comfortable from solder joints to inference loops: real-time signal acquisition, Dockerised backends, model training, gameplay code.
-- Open to collaborations and roles where **biomedical engineering meets applied AI**.
-
----
-
-## Featured project
-
-### [holdit-game4health](https://github.com/killpathic/holdit-game4health) &nbsp;`Active`
-
-> EMG-based serious game for upper-limb motor rehabilitation with AI
-
-Patients wear a wireless EMG armband. An ESP32 streams raw muscle signals over WiFi to a FastAPI backend that drives an adaptive Unity game and persists every session for the clinician. The model layer currently uses a scikit-learn baseline with an LSTM/CNN calibration layer on the roadmap.
-
-| Layer | Technology |
-|---|---|
-| Hardware    | ESP32-WROOM-32, surface EMG electrodes |
-| Firmware    | C++, Arduino framework, WiFi HTTP server |
-| Game engine | Unity 6, C# |
-| Backend     | FastAPI, PostgreSQL 15, Docker Compose |
-| ML          | scikit-learn → LSTM/CNN (in progress) |
-| Protocol    | ESP32 `/state` → Unity → FastAPI `/unity` + `/sessions` |
-
-### [firmware-esp32](https://github.com/killpathic/firmware-esp32)
-
-Real-time EMG acquisition and WiFi HTTP streaming firmware for the ESP32-WROOM-32. Used as a git submodule inside `holdit-game4health`.
-
----
-
-## GitHub stats
-
-<p align="center">
-  <a href="https://github.com/killpathic">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=killpathic&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  </a>
-  <a href="https://github.com/killpathic">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=killpathic&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/killpathic">
-    <img src="https://streak-stats.demolab.com?user=killpathic&theme=tokyonight&hide_border=true" alt="streak" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/killpathic">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=killpathic&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=killpathic&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="trophies" />
-  </a>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=killpathic&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000" />
 </p>
 
 ---
 
-## Get in touch
+## Get in touch ✉️
 
-<p align="center">
-  <a href="mailto:guenichewalid@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/killpathic"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <!-- Replace YOUR-LINKEDIN-SLUG with your handle once you have a public profile -->
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-SLUG"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<p align="left">
+<a href="mailto:guenichewalid@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/killpathic"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
-
-<p align="center"><sub>Recruiters: best reached by email. Open to embedded-AI / biomedical engineering roles and research collaborations.</sub></p>
-
-<!-- Snake animation (optional, see setup notes) -->
-<!--
-<p align="center">
-  <img src="https://raw.githubusercontent.com/killpathic/killpathic/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
--->
-
-<!-- profile -->
