@@ -87,7 +87,7 @@ Comfortable hopping between solder joints, training scripts, and React component
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=killpathic&hide_border=true&area=true&bg_color=00000000&height=180" alt="contribution graph" />
     </td>
     <td valign="middle">
-      <img src="https://streak-stats.demolab.com?user=killpathic&hide_border=true&background=00000000&date_format=M%20j%5B%2C%20Y%5D" alt="contribution streak" />
+      <img src="https://streak-stats.demolab.com?user=killpathic&theme=tokyonight&hide_border=true&background=00000000&date_format=M%20j%5B%2C%20Y%5D" alt="contribution streak" />
     </td>
   </tr>
 </table>
