@@ -2,6 +2,8 @@
 
 Engineer based in **Morocco**. I build things end-to-end — from low-level firmware on microcontrollers, through ML pipelines and APIs, all the way to the UI a user touches.
 
+Lately I spend a lot of time on **MLOps**: orchestrating data pipelines with Airflow, building **RAG systems** on top of LLMs, and shipping models that don't break in production.
+
 Comfortable hopping between solder joints, training scripts, and React components.
 
 ---
@@ -50,6 +52,17 @@ Comfortable hopping between solder joints, training scripts, and React component
 <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
 <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+</p>
+
+### MLOps & Data
+<p align="left">
+<img alt="Airflow" src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+<img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img alt="RAG" src="https://img.shields.io/badge/RAG-6E40C9?style=for-the-badge&logo=openai&logoColor=white" />
+<img alt="dbt" src="https://img.shields.io/badge/dbt-FF694A?style=for-the-badge&logo=dbt&logoColor=white" />
+<img alt="MLflow" src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+<img alt="pgvector" src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 ### DevOps & Tools
